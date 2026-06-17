@@ -1,0 +1,25 @@
+.register {
+  text-align: center;
+  padding: 50px;
+}
+
+.register form {
+  width: 350px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.register input,
+.register select {
+  margin: 10px 0;
+  padding: 12px;
+}
+
+.register button {
+  padding: 12px;
+  background-color: #c1121f;
+  color: white;
+  border: none;
+  cursor: pointer;
+}

@@ -1,0 +1,17 @@
+.hospital {
+  text-align: center;
+  padding: 50px;
+}
+
+.hospital ul {
+  list-style: none;
+}
+
+.hospital li {
+  background: white;
+  margin: 10px auto;
+  width: 300px;
+  padding: 15px;
+  border-radius: 5px;
+  box-shadow: 0px 2px 6px rgba(0,0,0,0.1);
+}

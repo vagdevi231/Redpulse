@@ -1,0 +1,24 @@
+.emergency {
+  background-color: #fff5f5;
+  text-align: center;
+  padding: 50px;
+}
+
+.emergency form {
+  width: 350px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.emergency input {
+  margin: 10px 0;
+  padding: 12px;
+}
+
+.emergency button {
+  background-color: #c1121f;
+  color: white;
+  padding: 12px;
+  border: none;
+}
